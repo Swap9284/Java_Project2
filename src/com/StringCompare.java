@@ -25,6 +25,8 @@ public class StringCompare {
 			System.out.println(str.length());
 
 			System.out.println(str.replace('o', 'u'));
+			
+			System.out.println("new update");
 
 		}
 
